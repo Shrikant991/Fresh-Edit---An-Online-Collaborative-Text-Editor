@@ -3,7 +3,7 @@
 Fresh Edit is an online Collarative text editor which is based on React JS, Node JS, MongoDB.
 
 
-Sample Screenshots:
+Screenshots of the App:
 
-![Example](/images/Example Screenshot - 1.png)
-![Example](/images/Example Screenshot - 2.png)
+![Example](https://github.com/Shrikant991/Fresh-Edit---An-Online-Collaborative-Text-Editor/blob/master/Example_Screenshot_1.png)
+![Example](https://github.com/Shrikant991/Fresh-Edit---An-Online-Collaborative-Text-Editor/blob/master/Example_Screenshot_1.png)
