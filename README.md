@@ -1,4 +1,4 @@
-# Fresh-Edit---An-Online-Collaborative-Text-Editor
+# Fresh-Edit-An Online Collaborative Text Editor
 
 Fresh Edit is an online Collaborative text editor which is based on React JS, Node JS, MongoDB.
 
