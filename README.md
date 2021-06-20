@@ -2,6 +2,8 @@
 
 Fresh Edit is an online Collarative text editor which is based on React JS, Node JS, MongoDB.
 
+You can access it here : [Link](https://fresh-edit.herokuapp.com/)
+
 
 Screenshots of the App:
 
