@@ -1,6 +1,6 @@
 # Fresh-Edit---An-Online-Collaborative-Text-Editor
 
-Fresh Edit is an online Collarative text editor which is based on React JS, Node JS, MongoDB.
+Fresh Edit is an online Collaborative text editor which is based on React JS, Node JS, MongoDB.
 
 You can access it here : [Link](https://fresh-edit.herokuapp.com/)
 
